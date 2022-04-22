@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiki Hermansyah</h1>
-<h3 align="center">A passionate fullstack developer from Indonesia</h3>
+<h3 align="center">experience in programming </h3>
 
 
 

@@ -4,7 +4,7 @@
 
 
 <p align="center">
- <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="react" width="50%" /> </a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwpY3f8qiHsSetysclbryZSwurlLY1rzxpAQ&usqp=CAU" alt="react" width="50%" /> </a>
+ <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDTJJWxuKH7m6AFieym2Iq_XeCsK3cSbOY-Q&usqp=CAU" alt="react" width="50%" /> </a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwpY3f8qiHsSetysclbryZSwurlLY1rzxpAQ&usqp=CAU" alt="react" width="50%" /> </a>
  
  
 <br><br><br>
